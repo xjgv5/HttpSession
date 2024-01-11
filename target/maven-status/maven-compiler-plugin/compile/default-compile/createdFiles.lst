@@ -1,0 +1,9 @@
+com\xjgv\apiservlet\webapp\headers\services\ProductoService.class
+com\xjgv\apiservlet\webapp\headers\services\LoginServiceSessionImpl.class
+com\xjgv\apiservlet\webapp\headers\controllers\LoginServlet.class
+com\xjgv\apiservlet\webapp\headers\controllers\LogoutServlet.class
+com\xjgv\apiservlet\webapp\headers\services\LoginServiceCookieImpl.class
+com\xjgv\apiservlet\webapp\headers\models\Producto.class
+com\xjgv\apiservlet\webapp\headers\services\ProductoServiceImpl.class
+com\xjgv\apiservlet\webapp\headers\controllers\ProductoServlet.class
+com\xjgv\apiservlet\webapp\headers\services\LoginService.class
